@@ -1,12 +1,14 @@
-Git Course
+passo 1 - Criar novo repositorio no github
+          copiar o endereço do repositorio
 
-Este é um repositorio teste .
+passo 2 : Abrir a pasta que será compartilhada pelo terminal , indo até o caminho
+          no linux abrir a pasta normal e abrir terminal
 
-saiba mais com tjoelcampos@gmail.com
+passo 3: git unit
+         git add .
+         git commit -n "primeiro commit"
+         git branch -M main
+         git remote add origin "url do seu repositorio copiado"
+         git push -u origin main
 
 
-Gostou do curso? quer mais? ajude com uma doação.
-
-
-
-sdsdsdsdsdsd
